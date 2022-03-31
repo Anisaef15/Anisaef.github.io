@@ -1,12 +1,14 @@
 body {
     background-image: url(calc.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .calculator {
     text-align: center;
     margin: 0 auto;
-    padding-top: 100px;
-    padding-left: 200px;
+    padding-top: 70px;
+    margin-left: 350px;
     width: 400px;
 }
 
